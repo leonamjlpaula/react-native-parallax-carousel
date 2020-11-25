@@ -2,7 +2,7 @@
 
 
 How to run
-``
+```
 yarn install
 yarn android //or yarn ios
-``
+```
